@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 1%;
+    background-color: rgb(36, 52, 190);
+    color: rgb(195, 242, 248);
+    line-height: 1.4;
+}
+
+h1 {
+    font-size: 200%;
+}
